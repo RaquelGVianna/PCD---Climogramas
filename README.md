@@ -1,2 +1,2 @@
 # PCD---Climogramas
-Rosa dos ventos, temperatura e precipitação, radiação
+Gráficos de parâmetros climáticos: Rosa dos ventos, temperatura e precipitação, radiação
